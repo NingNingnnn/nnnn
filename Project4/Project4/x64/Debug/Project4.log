@@ -1,0 +1,25 @@
+﻿  源.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\graphics.h(1,1): warning C4828: 文件包含在偏移 0x19d3 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+C:\Users\lenovo\source\repos\Project4\Project4\源.cpp(52,40): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\lenovo\source\repos\Project4\Project4\源.cpp(52,23): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\lenovo\source\repos\Project4\Project4\源.cpp(53,40): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\lenovo\source\repos\Project4\Project4\源.cpp(53,23): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\lenovo\source\repos\Project4\Project4\源.cpp(55,26): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\lenovo\source\repos\Project4\Project4\源.cpp(55,21): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\lenovo\source\repos\Project4\Project4\源.cpp(56,26): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\lenovo\source\repos\Project4\Project4\源.cpp(56,21): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\lenovo\source\repos\Project4\Project4\源.cpp(57,21): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\lenovo\source\repos\Project4\Project4\源.cpp(57,12): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\lenovo\source\repos\Project4\Project4\源.cpp(58,21): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\lenovo\source\repos\Project4\Project4\源.cpp(58,12): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\lenovo\source\repos\Project4\Project4\源.cpp(62,40): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\lenovo\source\repos\Project4\Project4\源.cpp(62,23): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\lenovo\source\repos\Project4\Project4\源.cpp(63,40): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\lenovo\source\repos\Project4\Project4\源.cpp(63,23): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\lenovo\source\repos\Project4\Project4\源.cpp(65,31): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\lenovo\source\repos\Project4\Project4\源.cpp(65,18): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\lenovo\source\repos\Project4\Project4\源.cpp(68,31): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\lenovo\source\repos\Project4\Project4\源.cpp(68,18): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\lenovo\source\repos\Project4\Project4\源.cpp(81,22): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\lenovo\source\repos\Project4\Project4\源.cpp(86,21): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  Project4.vcxproj -> C:\Users\lenovo\source\repos\Project4\x64\Debug\Project4.exe
